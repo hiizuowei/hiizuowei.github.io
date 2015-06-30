@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Css | My Octopress Blog]]></title>
+  <link href="http://hiizuowei.github.io/blog/categories/css/atom.xml" rel="self"/>
+  <link href="http://hiizuowei.github.io/"/>
+  <updated>2015-06-30T19:48:03+08:00</updated>
+  <id>http://hiizuowei.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[第一篇文章～～]]></title>
+    <link href="http://hiizuowei.github.io/blog/2015/06/29/first/"/>
+    <updated>2015-06-29T18:09:49+08:00</updated>
+    <id>http://hiizuowei.github.io/blog/2015/06/29/first</id>
+    <content type="html"><![CDATA[<h1>你好CSS3</h1>
+
+<h2>You are very cool!</h2>
+
+<p><strong>加粗</strong></p>
+
+<p><code>标亮</code></p>
+
+<ul>
+<li>CSS
+
+<ul>
+<li>http</li>
+<li>sqlite3</li>
+</ul>
+</li>
+<li>PHP</li>
+<li>HTML</li>
+</ul>
+
+
+<blockquote><p>引用</p></blockquote>
+
+<p><a href="https://githup.com/hiizuowei">hiizuowei</a></p>
+
+<p><img src="http://www.o-o.ren/img/Lemon.png" alt="image" /></p>
+
+<p><video width='620' height='349' preload='metadata' controls poster='http://flat-ui.com/images/video/poster.jpg">http://flat-ui.com/images/video/poster.jpg</a>'><source src='http://iurevych.github.com/Flat-UI-videos/big_buck_bunny.mp4">http://iurevych.github.com/Flat-UI-videos/big_buck_bunny.mp4</a>' ></video></p>
+
+<blockquote><p>Code
+<code>
+var o={
+            say:function(){
+                console.log('fuck you!');
+            }
+}
+</code></p></blockquote>
+
+<pre><code class="js This is a piece of js code http://www.o-o.ren link">var o={
+            say:function(){
+                console.log('fuck you!');
+            }
+}
+</code></pre>
+
+<p><figure class='code'><figcaption><span>This is a piece of js code <a href="http://www.o-o.ren">http://www.o-o.ren</a> link </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+</pre></td><td class='code'><pre><code class='js'><span class='line'><span class="o">&lt;</span><span class="err">/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span><span class="kd">var</span> <span class="nx">o</span><span class="o">=</span><span class="p">{</span>
+</span><span class='line'>            <span class="nx">say</span><span class="o">:</span><span class="kd">function</span><span class="p">(){</span>
+</span><span class='line'>                <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="o">&amp;</span><span class="nx">lsquo</span><span class="p">;</span><span class="nx">fuck</span> <span class="nx">you</span><span class="o">!&amp;</span><span class="nx">rsquo</span><span class="p">;);</span>
+</span><span class='line'>            <span class="p">}</span>
+</span><span class='line'><span class="p">}</span><span class="o">&lt;</span><span class="err">/p&gt;</span>
+</span><span class='line'>
+</span><span class='line'><span class="o">&lt;</span><span class="nx">p</span><span class="o">&gt;</span>
+</span></code></pre></td></tr></table></div></figure></p>
+]]></content>
+  </entry>
+  
+</feed>

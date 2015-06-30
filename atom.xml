@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://hiizuowei.github.io/atom.xml" rel="self"/>
+  <link href="http://hiizuowei.github.io/"/>
+  <updated>2015-06-30T19:48:03+08:00</updated>
+  <id>http://hiizuowei.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[第一篇文章～～]]></title>
+    <link href="http://hiizuowei.github.io/blog/2015/06/29/first/"/>
+    <updated>2015-06-29T18:09:49+08:00</updated>
+    <id>http://hiizuowei.github.io/blog/2015/06/29/first</id>
+    <content type="html"><![CDATA[<h1>你好CSS3</h1>
+
+<h2>You are very cool!</h2>
+
+<p><strong>加粗</strong></p>
+
+<p><code>标亮</code></p>
+
+<ul>
+<li>CSS
+
+<ul>
+<li>http</li>
+<li>sqlite3</li>
+</ul>
+</li>
+<li>PHP</li>
+<li>HTML</li>
+</ul>
+
+
+<blockquote><p>引用</p></blockquote>
+
+<p><a href="https://githup.com/hiizuowei">hiizuowei</a></p>
+
+<p><img src="http://www.o-o.ren/img/Lemon.png" alt="image" /></p>
+
+<p><video width='620' height='349' preload='metadata' controls poster='http://flat-ui.com/images/video/poster.jpg'><source src='http://iurevych.github.com/Flat-UI-videos/big_buck_bunny.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'></video></p>
+
+<blockquote><p>Code</p></blockquote>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>var o={
+</span><span class='line'>            say:function(){
+</span><span class='line'>                console.log('fuck you!');
+</span><span class='line'>            }
+</span><span class='line'>}</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<figure class='code'><figcaption><span>This is a piece of js code</span><a href='http://www.o-o.ren'>link</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class='js'><span class='line'><span class="kd">var</span> <span class="nx">o</span><span class="o">=</span><span class="p">{</span>
+</span><span class='line'>            <span class="nx">say</span><span class="o">:</span><span class="kd">function</span><span class="p">(){</span>
+</span><span class='line'>                <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;fuck you!&#39;</span><span class="p">);</span>
+</span><span class='line'>            <span class="p">}</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+
+
+<figure class='code'><figcaption><span>This is a piece of js code</span><a href='http://www.o-o.ren'>link </a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+</pre></td><td class='code'><pre><code class='js'><span class='line'>
+</span><span class='line'><span class="kd">var</span> <span class="nx">o</span><span class="o">=</span><span class="p">{</span>
+</span><span class='line'>            <span class="nx">say</span><span class="o">:</span><span class="kd">function</span><span class="p">(){</span>
+</span><span class='line'>                <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s1">&#39;fuck you!&#39;</span><span class="p">);</span>
+</span><span class='line'>            <span class="p">}</span>
+</span><span class='line'><span class="p">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+</feed>
